@@ -37,7 +37,7 @@ Explanation: 342 + 465 = 807.
  * Note that we use a dummy head to simplify the code.
  * Without a dummy head, you would have to write extra conditional statements to initialize the head's value.
  * Take extra caution of the following cases:
- *  Test case	Explanation
+ *  Test case	Explanation 1
  *  l1=[0,1]
  *  l2=[0,1,2]	When one list is longer than the other.
  *  l1=[]
